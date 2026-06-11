@@ -1,4 +1,9 @@
 # HTML Basics
+scrap1
+Scrap 1: ## What is Responsive Web Design
+
+**Responsive web design (RWD)** is a development approach that allows for elements to dynamically change its appearance or layout depending on screen size. For example, elements may reorder, grow/shrink in size depending on the size of the screen.
+
 HTML files typically contain things like:
 
 - the text contents of a web page, structured into a hierarchy of page elements
@@ -19,3 +24,4 @@ Let’s break down the syntax used to do this action. Learn more on the [MDN Web
 
 , in this case we are linking to a `stylesheet`. Learn more on the MDN Web Docs about link types.
 - `type`: Similar to the `rel` attribute, the `type` attribute lets the document know the specific type of file that is being linked.
+
