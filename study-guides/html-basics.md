@@ -19,6 +19,15 @@ HTML files typically contain things like:
 
 **Line 6**  `<link href="style.css" rel="stylesheet" type="text/css" />`  connects the CSS style sheet to our HTML file.
 
+#### Scrap 2
+HTML files typically contain things like:
+
+- the text contents of a web page, structured into a hierarchy of page elements
+- hyperlinks to other pages
+- references to other files like images, CSS files, and JavaScript files
+- definitions for interactive controls like buttons and text fields
+- metadata to help web browsers understand the contents of the page
+
 Let’s break down the syntax used to do this action. Learn more on the [MDN Web Docs about the `link` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link).
 
 - `<link>`: This element specifies relationships between the current document (the HTML file) and an external resource (the CSS file).
@@ -52,3 +61,11 @@ Scrap 4:  **Let’s take a look at a typical boilerplate, or standard template, 
  </body>
 </html>
 ```
+##### Scrap 6
+HTML files typically contain things like:
+
+- the text contents of a web page, structured into a hierarchy of page elements
+- hyperlinks to other pages
+- references to other files like images, CSS files, and JavaScript files
+- definitions for interactive controls like buttons and text fields
+- metadata to help web browsers understand the contents of the page
