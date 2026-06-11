@@ -1,3 +1,4 @@
+#### Scrap 2
 HTML files typically contain things like:
 
 - the text contents of a web page, structured into a hierarchy of page elements
@@ -7,6 +8,7 @@ HTML files typically contain things like:
 - metadata to help web browsers understand the contents of the page
 
 
+##### Scrap 6
 HTML files typically contain things like:
 
 - the text contents of a web page, structured into a hierarchy of page elements
